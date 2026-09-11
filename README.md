@@ -47,10 +47,6 @@ pip install "symphony_ui[examples]"
 
 For information on how to use or contribute to Symphony, [see the documentation](https://apple.github.io/ml-symphony/).
 
-## Contributing
-
-When making contributions, refer to the [`CONTRIBUTING`](CONTRIBUTING.md) guidelines and read the [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md).
-
 ## BibTeX
 
 To cite our paper, please use:
